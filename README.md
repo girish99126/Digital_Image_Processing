@@ -5,3 +5,5 @@
 * pip install numpy
 
 ## [Basic operation opencv - imshow,imread,imwrite and bit more about images ](https://github.com/kadambarigirish/Digital_Image_Processing/blob/master/openCv_Basic_Operations.ipynb)👈👈
+## [Histogram Equalization ](https://github.com/kadambarigirish/Digital_Image_Processing/tree/master/Histogram%20Equalization)👈👈
+
